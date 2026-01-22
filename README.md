@@ -1,16 +1,68 @@
-## Hi there 👋
+<<img src="./assets/header_divider.gif" width="100%">
+<img src="./assets/header.png">
 
-<!--
+# <b>Hi there, I'm </b><a href="https://github.com/SinghCharanjeet11">Charanjeet Singh</a> <img src="./assets/waving.gif" width="30">
+
+<img src="./assets/about_me.gif" width="35">&nbsp;**_About Me_**
+<img src="./assets/line_break.gif">
+
+<p style="font-size: 1.25rem;"><b>Software Developer</b> & <b>AI Enthusiast</b> focused on building practical and scalable solutions with modern web technologies and AI-driven systems.
+I'm passionate about problem-solving, hackathons, and turning ideas into impactful real-world products.</p>
+
+<img src="./assets/script_sticker.gif" width="30">&nbsp;**_Stack I used_**
+<img src="./assets/line_break.gif">
+
+<table align="center">
+    <tr>
+        <td align="center" width="90"><img height="55" src="./icons/python.svg" width="55"><br>Python</td>
+        <td align="center" width="90"><img height="55" src="./icons/js.svg" width="55"><br>JavaScript</td>
+        <td align="center" width="90"><img height="55" src="./icons/ts.svg" width="55"><br>TypeScript</td>
+        <td align="center" width="90"><img height="55" src="./icons/django.svg" width="55"><br>Django</td>
+        <td align="center" width="90"><img height="55" src="./icons/react.svg" width="55"><br>React</td>
+        <td align="center" width="90"><img height="55" src="./icons/nodejs.svg" width="55"><br>Node.js</td>
+        <td align="center" width="90"><img height="55" src="./icons/express.svg" width="55"><br>Express.js</td>
+        <td align="center" width="90"><img height="55" src="./icons/fastapi.svg" width="55"><br>FastAPI</td>
+    </tr>
+    <tr>
+        <td align="center" width="90"><img height="55" src="./icons/postgres.svg" width="55"><br>PostgreSQL</td>
+        <td align="center" width="90"><img height="55" src="./icons/redis.svg" width="55"><br>Redis</td>
+        <td align="center" width="90"><img height="55" src="./icons/firebase.svg" width="55"><br>Firebase</td>
+        <td align="center" width="90"><img height="55" src="./icons/docker.svg" width="55"><br>Docker</td>
+        <td align="center" width="90"><img height="55" src="./icons/git.svg" width="55"><br>Git</td>
+        <td align="center" width="90"><img height="55" src="./icons/github.svg" width="55"><br>GitHub</td>
+        <td align="center" width="90"><img height="55" src="./icons/mysql.svg" width="55"><br>MySQL</td>
+        <td align="center" width="90"><img height="55" src="./icons/c.svg" width="55"><br>C</td>
+    </tr>
+    <tr>
+        <td align="center" width="90"><img height="55" src="./icons/gcp.svg" width="55"><br>GCP</td>
+        <td align="center" width="90"><img height="55" src="./icons/aws.svg" width="55"><br>AWS</td>
+        <td align="center" width="90"><img height="55" src="./icons/azure.svg" width="55"><br>Azure</td>
+        <td align="center" width="90"><img height="55" src="./icons/mongodb.svg" width="55"><br>MongoDB</td>
+        <td align="center" width="90"><img height="55" src="./icons/postman.svg" width="55"><br>Postman</td>
+        <td align="center" width="90"><img height="55" src="./icons/supabase.svg" width="55"><br>Supabase</td>
+        <td align="center" width="90"><img height="55" src="./icons/html.svg" width="55"><br>HTML</td>
+        <td align="center" width="90"><img height="55" src="./icons/css.svg" width="55"><br>CSS</td>
+    </tr>
+</table>
+
+<img src="./assets/stats_logo.gif" width="35">&nbsp;**_Github Stats_**
+<img src="./assets/line_break.gif">
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SinghCharanjeet11&layout=compact&show_icons=true&theme=tokyonight" alt="AmanDevelops github-readme-stats" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=SinghCharanjeet11&theme=tokyonight" width="51%" />
+</div>
+<br />
+<div>
+    <img src="https://github-contributor-stats.vercel.app/api?username=SinghCharanjeet11&limit=4&theme=one_dark_pro&combine_all_yearly_contributions=true" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SinghCharanjeet11&theme=merko" alt="SinghCharanjeet11's github readme activity graph" width="100%" />
+</div>
+<br>
+
+!--
 **SinghCharanjeet11/SinghCharanjeet11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
