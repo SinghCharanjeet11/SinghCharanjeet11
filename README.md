@@ -1,5 +1,5 @@
-<<img src="./assets/header_divider.gif" width="100%">
-<img src="./assets/header.png">
+<img src="./assets/divider.gif" width="100%">
+<img src="./assets/newheader.png">
 
 # <b>Hi there, I'm </b><a href="https://github.com/SinghCharanjeet11">Charanjeet Singh</a> <img src="./assets/waving.gif" width="30">
 
@@ -15,16 +15,17 @@ I'm passionate about problem-solving, hackathons, and turning ideas into impactf
 <table align="center">
     <tr>
         <td align="center" width="90"><img height="55" src="./icons/python.svg" width="55"><br>Python</td>
-        <td align="center" width="90"><img height="55" src="./icons/js.svg" width="55"><br>JavaScript</td>
-        <td align="center" width="90"><img height="55" src="./icons/ts.svg" width="55"><br>TypeScript</td>
+        <td align="center" width="90"><img height="55" src="./icons/javascript.svg" width="55"><br>JavaScript</td>
+        <td align="center" width="90"><img height="55" src="./icons/typescript.svg" width="55"><br>TypeScript</td>
         <td align="center" width="90"><img height="55" src="./icons/django.svg" width="55"><br>Django</td>
         <td align="center" width="90"><img height="55" src="./icons/react.svg" width="55"><br>React</td>
         <td align="center" width="90"><img height="55" src="./icons/nodejs.svg" width="55"><br>Node.js</td>
         <td align="center" width="90"><img height="55" src="./icons/express.svg" width="55"><br>Express.js</td>
         <td align="center" width="90"><img height="55" src="./icons/fastapi.svg" width="55"><br>FastAPI</td>
+        <td align="center" width="90"><img height="55" src="./icons/tailwindcss.svg" width="55"><br>Tailwind CSS</td>
     </tr>
     <tr>
-        <td align="center" width="90"><img height="55" src="./icons/postgres.svg" width="55"><br>PostgreSQL</td>
+        <td align="center" width="90"><img height="55" src="./icons/postgresql.svg" width="55"><br>PostgreSQL</td>
         <td align="center" width="90"><img height="55" src="./icons/redis.svg" width="55"><br>Redis</td>
         <td align="center" width="90"><img height="55" src="./icons/firebase.svg" width="55"><br>Firebase</td>
         <td align="center" width="90"><img height="55" src="./icons/docker.svg" width="55"><br>Docker</td>
@@ -32,16 +33,18 @@ I'm passionate about problem-solving, hackathons, and turning ideas into impactf
         <td align="center" width="90"><img height="55" src="./icons/github.svg" width="55"><br>GitHub</td>
         <td align="center" width="90"><img height="55" src="./icons/mysql.svg" width="55"><br>MySQL</td>
         <td align="center" width="90"><img height="55" src="./icons/c.svg" width="55"><br>C</td>
+        <td align="center" width="90"><img height="55" src="./icons/java.svg" width="55"><br>Java</td>
     </tr>
     <tr>
-        <td align="center" width="90"><img height="55" src="./icons/gcp.svg" width="55"><br>GCP</td>
+        <td align="center" width="90"><img height="55" src="./icons/googlecloud.svg" width="55"><br>GCP</td>
         <td align="center" width="90"><img height="55" src="./icons/aws.svg" width="55"><br>AWS</td>
         <td align="center" width="90"><img height="55" src="./icons/azure.svg" width="55"><br>Azure</td>
         <td align="center" width="90"><img height="55" src="./icons/mongodb.svg" width="55"><br>MongoDB</td>
         <td align="center" width="90"><img height="55" src="./icons/postman.svg" width="55"><br>Postman</td>
         <td align="center" width="90"><img height="55" src="./icons/supabase.svg" width="55"><br>Supabase</td>
-        <td align="center" width="90"><img height="55" src="./icons/html.svg" width="55"><br>HTML</td>
-        <td align="center" width="90"><img height="55" src="./icons/css.svg" width="55"><br>CSS</td>
+        <td align="center" width="90"><img height="55" src="./icons/html5.svg" width="55"><br>HTML</td>
+        <td align="center" width="90"><img height="55" src="./icons/css3.svg" width="55"><br>CSS</td>
+        <td align="center" width="90"><img height="55" src="./icons/vscode.svg" width="55"><br>VS Code</td>
     </tr>
 </table>
 
@@ -54,7 +57,8 @@ I'm passionate about problem-solving, hackathons, and turning ideas into impactf
 </div>
 <br />
 <div>
-    <img src="https://github-contributor-stats.vercel.app/api?username=SinghCharanjeet11&limit=4&theme=one_dark_pro&combine_all_yearly_contributions=true" width="48%" />
+    <img src="./assets/contribution.png" width="35">&nbsp;<i><b>Github Contributions</b></i>
+    <img src="./assets/line_break.gif">
 </div>
 <br />
 <div>
@@ -62,7 +66,7 @@ I'm passionate about problem-solving, hackathons, and turning ideas into impactf
 </div>
 <br>
 
-!--
-**SinghCharanjeet11/SinghCharanjeet11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
+SinghCharanjeet11/SinghCharanjeet11 is a special repository.
+-->
 
