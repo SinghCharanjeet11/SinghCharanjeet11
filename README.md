@@ -52,7 +52,7 @@ I'm passionate about problem-solving, hackathons, and turning ideas into impactf
 <img src="./assets/line_break.gif">
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SinghCharanjeet11&layout=compact&show_icons=true&theme=tokyonight" alt="AmanDevelops github-readme-stats" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SinghCharanjeet11&layout=compact&show_icons=true&theme=tokyonight" alt="SinghCharanjeet11 github-readme-stats" width="48%" />
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=SinghCharanjeet11&theme=tokyonight" width="51%" />
 </div>
 <br />
