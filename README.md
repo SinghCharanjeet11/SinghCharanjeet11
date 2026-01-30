@@ -51,9 +51,9 @@ I'm passionate about problem-solving, hackathons, and turning ideas into impactf
 <img src="./assets/stats_logo.gif" width="35">&nbsp;**_Github Stats_**
 <img src="./assets/line_break.gif">
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SinghCharanjeet11&layout=compact&show_icons=true&theme=tokyonight" alt="SinghCharanjeet11 github-readme-stats" width="48%" />
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=SinghCharanjeet11&theme=tokyonight" width="51%" />
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SinghCharanjeet11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SinghCharanjeet11&theme=tokyonight&hide_border=true" width="51%" alt="GitHub Streak" />
 </div>
 <br />
 <div>
