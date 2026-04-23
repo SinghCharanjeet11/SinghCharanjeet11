@@ -1,16 +1,16 @@
-<img src="./assets/divider.gif" width="100%">
+
 <img src="./assets/newheader.png">
 
-# <b>Hi there, I'm </b><a href="https://github.com/SinghCharanjeet11">Charanjeet Singh</a> <img src="./assets/waving.gif" width="30">
+# <b>Hi there, I'm </b><a href="https://github.com/SinghCharanjeet11">Charanjeet Singh</a> 
 
 <img src="./assets/about_me.gif" width="35">&nbsp;**_About Me_**
-<img src="./assets/line_break.gif">
+
 
 <p style="font-size: 1.25rem;"><b>Software Developer</b> & <b>AI Enthusiast</b> focused on building practical and scalable solutions with modern web technologies and AI-driven systems.
 I'm passionate about problem-solving, hackathons, and turning ideas into impactful real-world products.</p>
 
 <img src="./assets/script_sticker.gif" width="30">&nbsp;**_Stack I used_**
-<img src="./assets/line_break.gif">
+
 
 <table align="center">
     <tr>
@@ -46,7 +46,7 @@ I'm passionate about problem-solving, hackathons, and turning ideas into impactf
 </table>
 
 <img src="./assets/stats_logo.gif" width="35">&nbsp;**_Github Stats_**
-<img src="./assets/line_break.gif">
+
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SinghCharanjeet11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
@@ -55,7 +55,6 @@ I'm passionate about problem-solving, hackathons, and turning ideas into impactf
 <br />
 <div>
     <img src="./assets/contribution.png" width="35">&nbsp;<i><b>Github Contributions</b></i>
-    <img src="./assets/line_break.gif">
 </div>
 <br />
 <div>
