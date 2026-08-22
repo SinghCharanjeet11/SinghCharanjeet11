@@ -8,7 +8,7 @@
 
 <!-- LINKS -->
 <p align="center">
-  <a href="https://charanjeet-singh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=00C7B7"/></a>
+  <a href="https://charanjeet-singh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=00C7B7"/></a>
   <a href="mailto:charansingh9450v@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/charanjeet-singh-12ba2732a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=SinghCharanjeet11&amp;style=for-the-badge&amp;color=0a66c2&amp;label=VISITORS"/>
