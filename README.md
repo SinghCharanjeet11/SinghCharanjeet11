@@ -1,68 +1,178 @@
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020c1b,100:0a2a4a&amp;height=240&amp;section=header&amp;text=Hi%2C%20I%27m%20Charanjeet+Singh&amp;fontSize=50&amp;fontColor=58A6FF&amp;animation=fadeIn&amp;fontAlignY=44&amp;desc=Full%20Stack%20%C2%B7%20AI%20%C2%B7%20Backend&amp;descAlignY=62&amp;descSize=16&amp;descColor=4d7fa8" width="100%"/>
 
-<img src="./assets/newheader.png">
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=540&amp;height=40&amp;lines=Building+systems+that+actually+work+%F0%9F%9A%80;Full+Stack+%C2%B7+AI+%C2%B7+LLMs;Semi+Finalist+%40+AI+FOR+BHARAT+Hackathon" alt="typing"/>
+</p>
 
-# <b>Hi there, I'm </b><a href="https://github.com/SinghCharanjeet11">Charanjeet Singh</a> 
+<!-- LINKS -->
+<p align="center">
+  <a href="https://charanjeet-singh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=00C7B7"/></a>
+  <a href="mailto:charansingh9450v@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/charanjeet-singh-12ba2732a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=SinghCharanjeet11&amp;style=for-the-badge&amp;color=0a66c2&amp;label=VISITORS"/>
+</p>
 
-<img src="./assets/about_me.gif" width="35">&nbsp;**_About Me_**
+<br/>
 
+---
 
-<p style="font-size: 1.25rem;"><b>Software Developer</b> & <b>AI Enthusiast</b> focused on building practical and scalable solutions with modern web technologies and AI-driven systems.
-I'm passionate about problem-solving, hackathons, and turning ideas into impactful real-world products.</p>
+## 🧠 About Me
 
-<img src="./assets/script_sticker.gif" width="30">&nbsp;**_Stack I used_**
+- 🎓 CSE Student @ **KIET Group of Institutions** '28
+- 🏆 **400+ LeetCode** · **400+** problems including CodeForces and GFG
+- 🌐 **Semi Finalist** @ AWS AI FOR BHARAT Hackathon
+- ☁️ **AWS Certified Cloud Practitioner**
 
+---
 
-<table align="center">
-    <tr>
-        <td align="center" width="90"><img height="55" src="./icons/python.svg" width="55"><br>Python</td>
-        <td align="center" width="90"><img height="55" src="./icons/javascript.svg" width="55"><br>JavaScript</td>
-        <td align="center" width="90"><img height="55" src="./icons/typescript.svg" width="55"><br>TypeScript</td>
-        <td align="center" width="90"><img height="55" src="./icons/django.svg" width="55"><br>Django</td>
-        <td align="center" width="90"><img height="55" src="./icons/react.svg" width="55"><br>React</td>
-        <td align="center" width="90"><img height="55" src="./icons/nodejs.svg" width="55"><br>Node.js</td>
-        <td align="center" width="90"><img height="55" src="./icons/express.svg" width="55"><br>Express.js</td>
-        <td align="center" width="90"><img height="55" src="./icons/tailwindcss.svg" width="55"><br>Tailwind CSS</td>
-    </tr>
-    <tr>
-        <td align="center" width="90"><img height="55" src="./icons/postgresql.svg" width="55"><br>PostgreSQL</td>
-        <td align="center" width="90"><img height="55" src="./icons/redis.svg" width="55"><br>Redis</td>
-        <td align="center" width="90"><img height="55" src="./icons/firebase.svg" width="55"><br>Firebase</td>
-        <td align="center" width="90"><img height="55" src="./icons/docker.svg" width="55"><br>Docker</td>
-        <td align="center" width="90"><img height="55" src="./icons/git.svg" width="55"><br>Git</td>
-        <td align="center" width="90"><img height="55" src="./icons/github.svg" width="55"><br>GitHub</td>
-        <td align="center" width="90"><img height="55" src="./icons/mysql.svg" width="55"><br>MySQL</td>
-        <td align="center" width="90"><img height="55" src="./icons/c.svg" width="55"><br>C</td>
-    </tr>
-    <tr>
-        <td align="center" width="90"><img height="55" src="./icons/java.svg" width="55"><br>Java</td>
-        <td align="center" width="90"><img height="55" src="./icons/aws.svg" width="55"><br>AWS</td>
-        <td align="center" width="90"><img height="55" src="./icons/mongodb.svg" width="55"><br>MongoDB</td>
-        <td align="center" width="90"><img height="55" src="./icons/postman.svg" width="55"><br>Postman</td>
-        <td align="center" width="90"><img height="55" src="./icons/supabase.svg" width="55"><br>Supabase</td>
-        <td align="center" width="90"><img height="55" src="./icons/html5.svg" width="55"><br>HTML</td>
-        <td align="center" width="90"><img height="55" src="./icons/css3.svg" width="55"><br>CSS</td>
-        <td align="center" width="90"><img height="55" src="./icons/vscode.svg" width="55"><br>VS Code</td>
-    </tr>
-</table>
-
-<img src="./assets/stats_logo.gif" width="35">&nbsp;**_Github Stats_**
-
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SinghCharanjeet11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SinghCharanjeet11&theme=tokyonight&hide_border=true" width="51%" alt="GitHub Streak" />
-</div>
-<br />
-<div>
-    <img src="./assets/contribution.png" width="35">&nbsp;<i><b>Github Contributions</b></i>
-</div>
-<br />
-<div>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SinghCharanjeet11&theme=merko" alt="SinghCharanjeet11's github readme activity graph" width="100%" />
-</div>
-<br>
 
-<!--
-SinghCharanjeet11/SinghCharanjeet11 is a special repository.
--->
+<!-- Languages -->
+<table>
+  <tr><td align="center" colspan="2"><b>Languages</b></td></tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java&amp;theme=dark" width="48"/><br/>Java</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="48"/><br/>Python</td>
+  </tr>
+</table>
 
+<br/>
+
+<!-- Full Stack - Backend -->
+<table>
+  <tr><td align="center" colspan="9"><b>Full Stack · Backend</b></td></tr>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48"/><br/>Next.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br/>React
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="48"/><br/>TypeScript
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/><br/>Node.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48"/><br/>Express
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48"/><br/>JavaScript
+  </td>
+  
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48"/><br/>Redis
+  </td>
+        <td align="center" width="96">
+            <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=postman&logoColor=white" height="48"/><br/>REST APIs
+        </td>
+</tr>
+  </tr>
+</table>
+
+<br/>
+
+<!--  Database -->
+<table>
+  <tr>
+    <td align="center" colspan="3"><b>Databases</b></td>
+  </tr>
+  <tr>
+      <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="48"/><br/>PostgreSQL
+  </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase&amp;theme=dark" width="48"/><br/>Supabase</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" width="48"/><br/>MySQL</td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Cloud & Tools -->
+<table>
+  <tr>
+    <td align="center" colspan="4"><b>Cloud</b></td>
+    <td align="center" colspan="5"><b>Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" width="48"/><br/>AWS</td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&amp;logo=amazonec2&amp;logoColor=white" height="48"/><br/>EC2</td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/S3-569A31?style=flat-square&amp;logo=amazons3&amp;logoColor=white" height="48"/><br/>S3</td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/IAM-DD344C?style=flat-square&amp;logo=amazonaws&amp;logoColor=white" height="48"/><br/>IAM</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="48"/><br/>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="48"/><br/>GitHub</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" width="48"/><br/>VS Code</td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white" height="48"/><br/>Postman</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SinghCharanjeet11&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0d1117&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff"/>
+</div>
+
+---
+
+## 🎯 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SinghCharanjeet11&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=1a6cf6&amp;point=58a6ff"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SinghCharanjeet11/SinghCharanjeet11/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SinghCharanjeet11/SinghCharanjeet11/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SinghCharanjeet11/SinghCharanjeet11/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+<details>
+
+Create `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1200&color=6EE7B7&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!" alt="footer"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a2a4a,100:020c1b&amp;height=100&amp;section=footer" width="100%"/>
