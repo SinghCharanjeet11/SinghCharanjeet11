@@ -21,7 +21,7 @@
 ## 🧠 About Me
 
 - 🎓 CSE Student @ **KIET Group of Institutions** '28
-- 🏆 **400+ LeetCode** · **400+** problems including CodeForces and GFG
+- 🏆 **550+ questions on LeetCode (Rating 1540)** · **600+** problems across all platforms
 - 🌐 **Semi Finalist** @ AWS AI FOR BHARAT Hackathon
 - ☁️ **AWS Certified Cloud Practitioner**
 
