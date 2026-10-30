@@ -119,6 +119,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SinghCharanjeet11&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0d1117&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=SinghCharanjeet11&theme=default&hide_border=false&include_all_commits=true&count_private=false"/><br/>
 </div>
 
 ---
