@@ -122,13 +122,6 @@
   <img src="https://github-readme-stats.shion.dev/api?username=SinghCharanjeet11&theme=default&hide_border=false&include_all_commits=true&count_private=false"/><br/>
 </div>
 
----
-
-## 🎯 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SinghCharanjeet11&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=1a6cf6&amp;point=58a6ff"/>
-</div>
 
 ---
 
